@@ -1,4 +1,4 @@
-Please eun below commands one by one to run the application on local 
+Please run below commands one by one to run the application on local 
 
 
 npm install react

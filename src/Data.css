@@ -1,0 +1,72 @@
+.landingPage{
+    background-color: #1879CA;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;    
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 80px;
+}
+
+
+.features {
+    font-size: 20px;
+    text-align: left;
+    padding-top: 5px;
+
+  }
+
+  .features__data{
+     
+      padding-right: 10px;
+  }
+  
+
+  .heading{
+    color: white;
+    font-size: 40px!important;
+    line-height: 52px!important;
+    text-align: left;
+    font-weight: 700;
+  }
+
+  .searchBox{
+
+    width: 1200px;
+    background-color: #FFB700;
+    height: 150px;
+    
+  }
+
+  .searchTextBox{
+      height: 64px;
+      width: 475px;
+      padding-left: 44px;
+      text-align: left;
+      font-weight: 700;
+      font-size: 20px;
+      border: none;
+      
+        
+  }
+
+  .carSymbol{
+    height: 64px;
+    width: 50px;
+    text-align: left;
+    font-weight: 700;
+    font-size: 20px;
+    border: none;
+      
+}
+
+  .seachBoxText{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    text-align: left;
+    padding-top: 5px;
+    padding-left: 10px;
+    font-weight: 700;
+
+  }
